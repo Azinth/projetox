@@ -7,3 +7,5 @@ var newSalario = (salario*aumento)+salario
 console.log('O salário atual é '+salario)
 console.log('O aumento será de '+(aumento*100)+'%')
 console.log('o novo salário do funcionário será: '+newSalario)
+
+//teste
