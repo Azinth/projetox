@@ -4,10 +4,6 @@ Faça um programa que receba o salário de um funcionário e o percentual de aum
 var salario = 1000
 var aumento = 0.25
 var newSalario = (salario*aumento)+salario
-console.log(
-    'O salário atual é '+salario /n
-    'O aumento será de '+(aumento*100)+'%' /n
-    'o novo salário do funcionário será: '+newSalario
-  )
-
-//teste
+console.log('O salário atual é: '+salario)
+console.log('O aumento será de: '+(aumento*100)+'%')
+console.log('o novo salário do funcionário será: '+newSalario)
